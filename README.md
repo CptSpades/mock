@@ -1,4 +1,4 @@
-# V-MOCK
+# MOCK
 
 
 >Http server to mock rest API.
